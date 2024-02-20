@@ -1,0 +1,28 @@
+body{
+    font-family: century gothic;
+}
+.back {
+    background-color:silver;
+    position: absolute;
+    display: flex;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    top:0px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+.paper {
+    background-color: aquamarine;
+    position: absolute;
+    padding: 2%;
+    text-align: center;
+}
+.button-class {
+    background-color:aqua;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

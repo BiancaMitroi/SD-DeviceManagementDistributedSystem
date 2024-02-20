@@ -1,0 +1,53 @@
+.sidebar2 {
+    display:block;
+    position: absolute;
+    width: auto;
+    z-index: -1;
+}
+
+.button2 {
+    width: 13%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: 7%;
+    background-color: #7fffd4;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    left: -12%;
+    margin-top: 1%;
+    text-align: left;
+    display:flex;
+}
+.button2:hover {
+    position: relative;
+    left:-2%;
+    transition-duration: 0.5s;
+}
+.img-logout2 {
+    width:50%;
+    position: relative;
+    right:0px;
+    margin-left: 15%;
+}
+.img-logout {
+    width:50%;
+    position: relative;
+    right:0px;
+    margin-left: 35%;
+}
+.table2 {
+    width: 50%;
+    background-color: aquamarine;
+    padding: 3%;
+    padding-right: 6%;
+    position: relative;
+    margin-left:1%;
+}
+.device2{
+    background-color: silver;
+    padding: 3%;
+    padding-left: 8%;
+    width: 50%;
+    margin-left: 0.5%;
+    display: block;
+}

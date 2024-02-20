@@ -1,0 +1,24 @@
+.form{
+    background-color: silver;
+    padding: 3%;
+    width: 50%;
+    margin-left: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.device{
+    background-color: silver;
+    padding: 3%;
+    padding-left: 6%;
+    width: 50%;
+    margin-left: 0.5%;
+    display: flex;
+}
+td {
+    padding: 3%;
+}
+button {
+    background-color: aquamarine;
+    border-radius: 10px 10px 10px 10px;
+}
